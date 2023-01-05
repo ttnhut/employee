@@ -1,2 +1,2 @@
 # employee
-project for managing employe
+project for managing employee
